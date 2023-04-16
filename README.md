@@ -5,7 +5,7 @@ Hola, soy [Mdr060788]
 Mis proyectos
 Aquí hay una lista de algunos de mis proyectos:
 
-[App de ML con integración de reportes Power BI y Looker Studio 1](https://github.com/Mdr060788/prediccion_abandono):
+[App de ML con integración de reportes Power BI y Looker Studio](https://github.com/Mdr060788/prediccion_abandono):
 
 Mis habilidades
 Estas son algunas de las habilidades que he desarrollado a lo largo de mi carrera como [tu profesión]:
