@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mauro Rossi</h1>
+<h1 align="center">Hola 👋, soy Mauro</h1>
 <h3 align="center">Apasionado por la Ciencia de Datos</h3>
 
 - 📫 How to reach me **maurodanielrossi3@gmail.com**
