@@ -1,5 +1,4 @@
-# Mdr060788.github.io
-Hola, soy [Mdr060788]
+Hola, soy #Mauro
 ¡Bienvenido a mi perfil de GitHub! Soy un [Analista de Datos] con experiencia en [ML]. Me encanta trabajar en proyectos de Datos y estoy siempre en busca de nuevos desafíos y oportunidades para aprender.
 
 Mis proyectos
