@@ -6,32 +6,38 @@
 ### Reportes
 <div style="display: inline-block; margin-right: 20px;">
     <a href="https://www.novypro.com/project/customer-segmentation-clustering" target="_blank">
-        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1664541418/TRABAJO/CV/segmentacion_clientes_gfrfvw.png" alt="IMAGE ALT TEXT HERE" width="250" height="180" border="10" />
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1664541418/TRABAJO/CV/segmentacion_clientes_gfrfvw.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
     </a>
     <a href="https://www.novypro.com/project/machine-learning-natural-language-processing" target="_blank">
-        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1664547156/TRABAJO/CV/npl_xwypg7.png" alt="IMAGE ALT TEXT HERE" width="250" height="180" border="10" />
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1664547156/TRABAJO/CV/npl_xwypg7.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
     </a>
     <a href="https://res.cloudinary.com/dtrztanhq/image/upload/v1665057278/TRABAJO/CV/resto_fya5ep.png" target="_blank">
-        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1665057278/TRABAJO/CV/resto_fya5ep.png" alt="IMAGE ALT TEXT HERE" width="250" height="180" border="10" />
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1665057278/TRABAJO/CV/resto_fya5ep.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
     </a>
-    <a href="https://mdr060788-prediccion-abandono.streamlit.app/" target="_blank">
-        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1681593736/WhatsApp_Image_2023-04-15_at_00.40.21_nmdwfv.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+    <a href="https://res.cloudinary.com/dtrztanhq/image/upload/v1664559392/TRABAJO/CV/prod_agri2_rzr4ss.png" target="_blank">
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1664559392/TRABAJO/CV/prod_agri2_rzr4ss.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+    </a>
+    <a href="https://res.cloudinary.com/dtrztanhq/video/upload/v1674750155/TRABAJO/CV/app_c-2022-12-30_12.11.32_qcudra.mp4" target="_blank">
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1672414177/TRABAJO/CV/Screenshot_kbxxiv.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
     </a>
 </div>
 
 ### Apps
 <div style="display: inline-block; margin-right: 30px;">
+    <a href="https://mdr060788-prediccion-abandono.streamlit.app/" target="_blank">
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1681593736/WhatsApp_Image_2023-04-15_at_00.40.21_nmdwfv.jpg" alt="IMAGE ALT TEXT HERE" width="250" height="220" border="10" />
+    </a>
     <a href="https://res.cloudinary.com/dtrztanhq/video/upload/v1666877017/TRABAJO/Pedidos%20a%20Proveedores/app_c-2022-10-27_10.17.47_eql1jg.mp4" target="_blank">
-        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1666182369/TRABAJO/Pedidos%20a%20Proveedores/641813_m6yvcg.png" alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" />
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1666877145/TRABAJO/Pedidos%20a%20Proveedores/Screenshot_qu3laq.png" alt="IMAGE ALT TEXT HERE" width="140" height="220" border="10" />
     </a>
     <a href="https://res.cloudinary.com/dtrztanhq/video/upload/v1665789509/TRABAJO/Produccion%20Fabrica/productos_riouqt.mp4" target="_blank">
-        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1666008587/TRABAJO/CV/Screenshot_yfgx3e.png" alt="IMAGE ALT TEXT HERE" width="140" height="200" border="10" />
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1666008587/TRABAJO/CV/Screenshot_yfgx3e.png" alt="IMAGE ALT TEXT HERE" width="140" height="220" border="10" />
     </a>
     <a href="https://res.cloudinary.com/dtrztanhq/image/upload/v1665059028/TRABAJO/CV/transporte2_geauj7.png" target="_blank">
-        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1665059028/TRABAJO/CV/transporte2_geauj7.png" alt="IMAGE ALT TEXT HERE" width="140" height="200" border="10" />
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1665059028/TRABAJO/CV/transporte2_geauj7.png" alt="IMAGE ALT TEXT HERE" width="140" height="220" border="10" />
     </a>
     <a href="https://res.cloudinary.com/dtrztanhq/image/upload/v1665060246/TRABAJO/CV/prod_agri.app3_oxelgw.png" target="_blank">
-        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1665060246/TRABAJO/CV/prod_agri.app3_oxelgw.png" alt="IMAGE ALT TEXT HERE" width="140" height="200" border="10" />
+        <img src="https://res.cloudinary.com/dtrztanhq/image/upload/v1665060246/TRABAJO/CV/prod_agri.app3_oxelgw.png" alt="IMAGE ALT TEXT HERE" width="140" height="220" border="10" />
     </a>
 </div>
 
